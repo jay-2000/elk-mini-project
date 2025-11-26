@@ -1,0 +1,4 @@
+INFO: App is running
+ERROR: Database connection failed
+INFO: Filebeat test log
+ERROR: Filebeat test error log
