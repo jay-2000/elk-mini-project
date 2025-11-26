@@ -65,4 +65,4 @@ Searchable logs in Kibana
 
 📸 Demo Screenshot
 
-(Add Kibana screenshots here for better portfolio impact)
+![Web1](screenshots/kibana.png)
